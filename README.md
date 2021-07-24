@@ -1,4 +1,4 @@
-Grocery Store management system is an application made using the concept of hashing(Linear Probing).
+Grocery Store management system is an application made using the concept of hashing(Linear Probing) and GUI in C++.
  
  The application contains the following features-
  1) Add item
