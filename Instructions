@@ -1,7 +1,8 @@
 Basic Instructions:
 
 Create a new Windows form on Visual Studio 2019. 
-Copy paste this code in the Myform.h header file.
-Run the code.
+
+Copy paste the HASH code in the Myform.h header file.
+Copy paste the Myform.cpp code in the Myform.cpp file.
 
 The items that are added is inserted into text file named rec.txt
